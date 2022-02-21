@@ -412,15 +412,16 @@ button[aria-label="GIF 선택기 열기"] {
 
 /* End Localized Stuff */
 
-
-.sprite-2lxwfc {
+/*
+ .sprite-2lxwfc {
     background-image: url("https://blueb442.github.io/purpura/assets/allinone-sprite.png");
     background-position: 50%;
     background-repeat: no-repeat;
     width: 22px;
     height: 22px;
     display: block;
-}
+} 
+*/
 
 .scrollableContainer-15eg7h {
     background-color: var(--background-accent);
