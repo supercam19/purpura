@@ -1,5 +1,5 @@
 # Purpura
-A dark purple BetterDiscord theme.
+A dark purple BetterDiscord theme. (Happy 1 year birthday, Purpura!)
   
 ## Features
 - Takes a mobile, multipanel look
